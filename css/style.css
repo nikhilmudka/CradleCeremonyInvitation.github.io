@@ -73,7 +73,7 @@ body {
 font-family: 'Lobster';
   color: #331717;
   font-style: italic;
-   left:50px;
+   
 }
 
 p {
@@ -106,7 +106,7 @@ font-family: 'Indie Flower', cursive;
           transform-style: preserve-3d;
   -webkit-perspective: 5000px;
           perspective: 5000px;
-   left:50px;
+ 
 }
 
 #card-front:before {
